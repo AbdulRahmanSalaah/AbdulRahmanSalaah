@@ -1,10 +1,10 @@
-![MasterHead](https://github.com/user-attachments/assets/3f18f37b-61ae-42ef-88b5-04c96ecd649d)
+![MasterHead](https://img.freepik.com/premium-vector/artificial-intelligence-humanoid-robot_1302-13277.jpg?w=1380)
 
 
 
 
 <h1 align="center">Hi 👋, I'm AbdulRahman Salah</h1>
-<h3 align="center">Software Engineer | Flutter developer</h3>
+<h3 align="center">Software Engineer |  passionate about machine learning and AI.</h3>
 
 
 <br>
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-- 🌱 I’m currently learning **FLUTTER Development**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 💬 Ask me about **anything**
 
