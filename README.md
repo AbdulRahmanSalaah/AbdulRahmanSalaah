@@ -36,6 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulrahman-salah-518877268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-salah-518877268" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abdulrahman__salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdulrahman__salah" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdulrahman_salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdulrahman_salah" height="30" width="40" /></a>
 </p>
 
