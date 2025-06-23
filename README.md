@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sa8640205@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qs6vLFf9qZRyThMeK50VtRLTnAJ7Pwnu/view?usp=sharing](https://drive.google.com/file/d/1ymbJswVBxWBE4wgqnilp59f_uePvyPBG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Qs6vLFf9qZRyThMeK50VtRLTnAJ7Pwnu/view?usp=sharing](https://drive.google.com/file/d/1B0cOD7j5BilbOebGfwtvryUSEFpsdKAt/view?usp=sharing)
 
 - ⚡ Fun fact **always learning**
 
