@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Machine Learning and AI**
-- 💬 Ask me about **AI, ML, Problem Solving**
+- 💬 Ask me about **anything**
 - 📫 Reach me at **sa8640205@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1fEeBIRrmMme2Z72l-jzTBFRuYJ340JKC/view?usp=sharing)
 - ⚡ Fun fact: **Always learning**
