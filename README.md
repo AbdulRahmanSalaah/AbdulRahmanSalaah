@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <a href="#">
-  <img align="right" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="220" alt="Coding GIF" />
+  <img align="right" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="35%" alt="Coding GIF" />
 </a>
 
 - 🌱 I’m currently learning **Machine Learning and AI**
@@ -66,10 +66,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmansalaah&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmansalaah&layout=compact&theme=tokyonight" height="165" alt="Top Languages" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmansalaah&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" style="margin: 10px; max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmansalaah&layout=compact&theme=tokyonight" height="165" alt="Top Languages" style="margin: 10px; max-width: 100%;" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmansalaah&theme=tokyonight" height="165" alt="GitHub Streak" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmansalaah&theme=tokyonight" height="165" alt="GitHub Streak" style="margin: 10px; max-width: 100%;" />
 </div>
 
 ---
