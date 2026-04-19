@@ -23,16 +23,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/abdulrahman-salah-518877268"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" style="margin: 0 10px;"/></a>
-  <a href="https://codeforces.com/profile/abdulrahman_salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" style="margin: 0 10px;"/></a>
-  <a href="https://www.leetcode.com/abdulrahman__salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="margin: 0 10px;"/></a>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -80,4 +70,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmansalaah&layout=compact&theme=tokyonight" height="165" alt="Top Languages" style="margin: 10px;" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmansalaah&theme=tokyonight" height="165" alt="GitHub Streak" style="margin: 10px;" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/abdulrahman-salah-518877268"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" style="margin: 0 10px;"/></a>
+  <a href="https://codeforces.com/profile/abdulrahman_salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.leetcode.com/abdulrahman__salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="margin: 0 10px;"/></a>
 </div>
