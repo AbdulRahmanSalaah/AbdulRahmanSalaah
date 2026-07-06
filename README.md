@@ -8,14 +8,20 @@
   <a href="https://www.linkedin.com/in/abdulrahman-salah-518877268/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="sa8640205@gmail.com" target="_blank">
+  <a href="https://leetcode.com/u/AbdulRahman__Salah/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
+  <a href="https://codeforces.com/profile/AbdulRahman_Salah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo"  />
+  </a>
+  <a href="mailto:sa8640205@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/share/1DANB8ofEv/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
   <a href="https://drive.google.com/drive/folders/15goLJupyax2QFphPJ7LbGTEJ3FZ5e44b?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%F0%9F%93%84%20Resume&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%93%84%20Resume&logo=adobeacrobatreader&label=&color=EC1C24&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="resume logo"  />
   </a>
 </div>
 
