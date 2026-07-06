@@ -1,83 +1,87 @@
-<div align="center">
-  <img src="https://img.freepik.com/premium-vector/artificial-intelligence-humanoid-robot_1302-13277.jpg?w=1380" width="100%" style="max-width: 600px; border-radius: 10px;" alt="AI Banner" />
-
-  <h1>Hi 👋, I'm AbdulRahman Salah</h1>
-  <h3>AI Engineer</h3>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhqMDY3cnQ4ZDVxNHpzbGhyeHQ3dGVycWMybjZpYnVwM3N0YWh4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.webp"  />
 </div>
 
----
+###
 
-## 🚀 About Me
-
-<a href="#">
-  <img align="right" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="35%" alt="Coding GIF" />
-</a>
-
-- 🌱 I’m currently learning **Machine Learning and AI**
-- 💬 Ask me about **anything**
-- 📫 Reach me at **sa8640205@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1fEeBIRrmMme2Z72l-jzTBFRuYJ340JKC/view?usp=sharing)
-- ⚡ Fun fact: **Always learning**
-
-<br clear="both"/>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" style="margin: 5px;"/>
-</p>
-
-### 🤖 AI & Data Science
-<p>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" alt="PyTorch" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" alt="TensorFlow" style="margin: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="Scikit-Learn" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="Pandas" style="margin: 5px;"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" alt="Seaborn" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" alt="OpenCV" style="margin: 5px;"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" alt="Flutter" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" alt="Dart" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" alt="Android" style="margin: 5px;"/>
-</p>
-
-### 🗄️ Databases & ⚙️ Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" style="margin: 5px;"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" alt="SQL Server" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git" style="margin: 5px;"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" alt="Postman" style="margin: 5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" alt="Docker" style="margin: 5px;"/>
-</p>
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/abdulrahman-salah-518877268/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="sa8640205@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/1DANB8ofEv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://drive.google.com/drive/folders/15goLJupyax2QFphPJ7LbGTEJ3FZ5e44b?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%F0%9F%93%84%20Resume&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
 </div>
 
----
+###
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmansalaah&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" style="margin: 10px; max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahmansalaah&layout=compact&theme=tokyonight" height="165" alt="Top Languages" style="margin: 10px; max-width: 100%;" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahmansalaah&theme=tokyonight" height="165" alt="GitHub Streak" style="margin: 10px; max-width: 100%;" />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=AbdulRahmanSalaah.AbdulRahmanSalaah&"  />
 </div>
 
----
+###
 
-## 🌐 Connect with Me
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-<div align="center">
-  <a href="https://linkedin.com/in/abdulrahman-salah-518877268"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" style="margin: 0 10px;"/></a>
-  <a href="https://codeforces.com/profile/abdulrahman_salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" style="margin: 0 10px;"/></a>
-  <a href="https://www.leetcode.com/abdulrahman__salah"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="margin: 0 10px;"/></a>
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">I'm AbdulRahman Salah from Egypt 🇪🇬 <br>- 🔭 I’m working on AI projects. <br>- 📚 I’m currently learning something new every day. <br>- ⚡ Debugging is my cardio.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/AbdulRahmanSalaah/AbdulRahmanSalaah/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/AbdulRahmanSalaah/AbdulRahmanSalaah/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/AbdulRahmanSalaah/AbdulRahmanSalaah/snake-output/snake.svg" alt="Snake animation" />
+
+###
