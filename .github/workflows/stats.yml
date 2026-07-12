@@ -17,7 +17,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=jupyter notebook
+          options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=jupyter%20notebook
           path: dist/languages.svg
           token: ${{ secrets.STATS_TOKEN }}
       - name: push languages.svg to the output branch
